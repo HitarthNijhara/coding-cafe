@@ -1,0 +1,252 @@
+   50  python3
+   51  python3 Desktop/intro.py
+   52  python3 Desktop/intro.py
+   53  curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
+   54  backup spicetify
+   55  brew install spicetify-cli
+   56  spicetify config spotify_path "/Applications/Spotify.app/Contents/Resources"\n
+   57  spicetify apply
+   58  spicetify backup apply
+   59  {\n  inputs.spicetify-nix.url = "github:Gerg-L/spicetify-nix";\n}
+   60  iwr -useb https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.ps1 | iex\n
+   61  curl -fsSL https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.sh | sh\n
+   62  spicetify backup apply\n
+   63  curl ascii.live/rick
+   64  nc towel.blinkenlights.nl
+   65  nc towel.blinkenlights.nl 23
+   66  curl ascii.live/rick
+   67  curl ascii.live/rick
+   68  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   69  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   70  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   71  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   72  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   73  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   74  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   75  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   76  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   77  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   78  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   79  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   80  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   81  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   82  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   83  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/hello world"
+   84  spicetify backup restore
+   85  spicetify backup
+   86  curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
+   87  claude
+   88  clear
+   89  nano ~/.shrc
+   90  nano ~/.zshrc
+   91  clear
+   92  ln -s /Applications/Claude.app/Contents/MacOS/Claude /usr/local/bin/claude\n
+   93  sudo ln -s /Applications/Claude.app/Contents/MacOS/Claude /usr/local/bin/claude\n
+   94  clear
+   95  claude
+   96  clear
+   97  sudo rm /usr/local/bin/claude\n
+   98  npm install -g @anthropic-ai/claude-code\n
+   99  brew install npm
+  100  clear
+  101  npm install -g @anthropic-ai/claude-code\n
+  102  npm install -g --allow-scripts=@anthropic-ai/claude-code\n
+  103  clear
+  104  npm config set allow-scripts=@anthropic-ai/claude-code --location=user\nnpm install -g @anthropic-ai/claude-code\nnpm config delete allow-scripts --location=user\n
+  105  clear
+  106  claude
+  107  /Users/hitarthnijhara/Desktop/self/cal
+  108  /Users/hitarthnijhara/Desktop/self/cal
+  109  /Users/hitarthnijhara/Desktop/self/scical
+  110  /Users/hitarthnijhara/Desktop/self/scical
+  111  /Users/hitarthnijhara/Desktop/self/scical
+  112  /Users/hitarthnijhara/Desktop/self/scical
+  113  /Users/hitarthnijhara/Desktop/self/scical
+  114  /Users/hitarthnijhara/Desktop/self/scical
+  115  /Users/hitarthnijhara/Desktop/self/scical
+  116  /Users/hitarthnijhara/Desktop/self/scical
+  117  python3 --version
+  118  python
+  119  python3
+  120  homebrew
+  121  homebrew install
+  122  brew
+  123  clear
+  124  py --version
+  125  py3 --version
+  126  $ code .
+  127  code .
+  128  code .
+  129  code .
+  130  code .
+  131  /usr/local/bin/python3 /Users/hitarthnijhara/Desktop/cc/.vscode/inrto.py
+  132  /usr/local/bin/python3 /Users/hitarthnijhara/Desktop/cc/.vscode/inrto.py
+  133  clear
+  134  wassap wassap fambruhhhh
+  135  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1 ques1"
+  136  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1 ques1"
+  137  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1 ques1"
+  138  clear
+  139  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1 ques1"
+  140  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1 ques1"
+  141  clear
+  142  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1 ques1"
+  143  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1 ques1"
+  144  clear
+  145  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1 ques1"
+  146  clear
+  147  run
+  148  clear
+  149  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1 ques1"
+  150  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1 ques1"
+  151  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1 ques1"
+  152  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1ques2"
+  153  clear
+  154  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1ques2"
+  155  clear
+  156  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1ques2"
+  157  clear
+  158  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/CT lab/lab1ques2"
+  159  python3
+  160  curl ascii.live/rick
+  161  curl parrot.live\n
+  162  brew install cmatrix
+  163  cmatrix
+  164  /Users/hitarthnijhara/Desktop/self/cal
+  165  /Users/hitarthnijhara/Desktop/self/cal
+  166  clear
+  167  /Users/hitarthnijhara/Desktop/self/bruh
+  168  /Users/hitarthnijhara/Desktop/self/bruh
+  169  /Users/hitarthnijhara/Desktop/self/bruh
+  170  /Users/hitarthnijhara/Desktop/self/bruh
+  171  /Users/hitarthnijhara/Desktop/self/bruh
+  172  /Users/hitarthnijhara/Desktop/self/bruh
+  173  /Users/hitarthnijhara/Desktop/self/bruh
+  174  clear
+  175  /Users/hitarthnijhara/Desktop/self/bruh
+  176  /Users/hitarthnijhara/Desktop/self/bruh
+  177  ls -l
+  178  pwd
+  179  cd desktop
+  180  mkdir coding-cafe
+  181  cd coding-cafe
+  182  mkdir week01
+  183  mkdir week02
+  184  mkdir week03
+  185  rmdir week03
+  186  touch README.md
+  187  cd week02
+  188  touch notes.md
+  189  ls
+  190  cd --
+  191  lw
+  192  ls
+  193  cd desktop
+  194  rmdir coding-cafe
+  195  cd coding-cafe
+  196  rmdir week01
+  197  rmdir week02
+  198  rm readme.md
+  199  rm week02/notes.md
+  200  rmdir week02
+  201  rmdir coding-cafe
+  202  cd-
+  203  cd -
+  204  rmdir coding-cafe
+  205  cd coding-cafe
+  206  ls
+  207  -ls
+  208  ls -a
+  209  rm .
+  210  rm .ds_store
+  211  cd -
+  212  rmdir coding-cafe
+  213  cd ~
+  214  pwd
+  215  mkdir user/hitarthnijhara/desktop/coding-cafe
+  216  mkdir user/hitarthnijhara/desktop coding-cafe
+  217  mkdir user/hitarthnijhara/desktop/coding-cafe/week01
+  218  cd desktop
+  219  ls
+  220  cd ~
+  221  mkdir users/hitarthnijhara/desktop/coding-cafe/week01
+  222  clear
+  223  pwd
+  224  mkdir Users/hitarthnijhara/coding-cafe
+  225  mkdir /Users/hitarthnijhara/coding-cafe
+  226  rmdir /users/hitarthnijhara/coding-cafe
+  227  mkdir /Users/hitarthnijhara/desktop/coding-cafe/week01
+  228  clear
+  229  pwd
+  230  mkdir Users/hitarthnijhara/coding-cafe
+  231  mkdir /Users/hitarthnijhara/coding-cafe
+  232  mkdir /Users/hitarthnijhara/coding-cafe/week01
+  233  mkdir /Users/hitarthnijhara/coding-cafe/week02
+  234  touch /users/hitarthnijhara/coding-cafe/README.md
+  235  touch /users/hitarthnijhara/coding-cafe/week02/notes.md
+  236  clear
+  237  mkdir /users/hitarthnijhara/desktop/coding-cafe
+  238  mkdir /users/hitarthnijhara/desktop/coding-cafe/week01
+  239  mkdir /users/hitarthnijhara/desktop/coding-cafe/week02
+  240  touch /users/hitarthnijhara/desktop/coding-cafe/README.md
+  241  touch /users/hitarthnijhara/desktop/coding-cafe/week02/notes.md
+  242  ls /
+  243  ls /users/hitarthnijhara/desktop/coding-cafe
+  244  ls -l
+  245  cd coding-cafe
+  246  cd /desktop/coding-cafe
+  247  cd desktop
+  248  cd coding-cafe
+  249  cp README.md README-backup.md
+  250  mv README-backup.md
+  251  mv README-backup.md week01/
+  252  cd week01
+  253  mv README-backup;md old-readme.md
+  254  mv README-backup.md old-readme.md
+  255  ls
+  256  rm old-readme.md
+  257  echo &PATH
+  258  which ls
+  259  cd ~
+  260  which ls
+  261  which python3
+  262  echo $PATH
+  263  pyton3
+  264  cd ~/coding-cafe
+  265  cd ~/desktop
+  266  cd ~/coding-cafe
+  267  cd ~/desktop/coding-cafe
+  268  python3 -m venv .venv
+  269  ls
+  270  ls -a
+  271  source .venv/bin/activate
+  272  which python3
+  273  pip list
+  274  pip install requests
+  275  pip list
+  276  deactivate
+  277  which python3
+  278  man ls
+  279  ls -h
+  280  cd ~
+  281  ls -h
+  282  ls
+  283  ls -h -l
+  284  history
+  285  python3
+  286  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/ques1"
+  287  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/ques1"
+  288  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/ques2"
+  289  "/Users/hitarthnijhara/Desktop/class work/comp thinking (c)/ques2"
+  290  cd desktop
+  291  cd coding-cafe
+  292  history > week02/lab01-log.txt
+  293  ls -l > week02/lab01-log.txt
+  294  cat week02/lab01-log.txt
+  295  cd week02
+  296  cat week02/lab01-log.txt
+  297  cat week02/lab01-log.txt
+  298  cd -
+  299  cat week02/lab01-log.txt
+  300  ls -l > week02/lab01-log.txt
+  301  history > week02/lab01-log.txt
